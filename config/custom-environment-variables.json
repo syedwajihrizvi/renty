@@ -1,0 +1,4 @@
+{
+  "databaseUrl": "DB_URL",
+  "jwtPrivateKey": "JWT_PK"
+}

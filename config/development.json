@@ -1,0 +1,4 @@
+{
+  "name": "Vidly - Development",
+  "database": "mongodb://localhost/vidly"
+}
